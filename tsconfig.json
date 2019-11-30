@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
+    "outDir": "./build", /* Redirect output structure to the directory. */
     "lib": [
       "dom",
       "dom.iterable",
